@@ -12,5 +12,3 @@ My name is **Aziz Fatih Fauzi** and I am a student of **informatics**. I am pass
   **[Instagram](https://instagram.com/_azizfauzi)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizfauzi99&layout=compact&theme=dark&hide_border=true&count_private=true)
-
-![Aziz Fauzi's github stats](https://github-readme-stats.vercel.app/api?username=azizfauzi99&show_icons=true&hide_border=true&theme=dark&count_private=true)
