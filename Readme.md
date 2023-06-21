@@ -10,5 +10,6 @@ My name is **Aziz Fatih Fauzi** and I am a student of **informatics**. I am pass
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   **[Instagram](https://instagram.com/_azizfauzi)**
+  **[Medium](https://medium.com/@aziz48710)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizfauzi99&layout=compact&theme=dark&hide_border=true&count_private=true)
